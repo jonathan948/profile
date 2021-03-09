@@ -1,0 +1,72 @@
+
+
+body{
+    background-color: hsl(300, 24%, 96%);
+    font-size:  15px;
+    font-family: Spartan;
+      
+}
+
+p{
+    color: hsl(303, 10%, 53%)
+}
+
+span{
+    color: hsl(333, 80%, 67%);
+}
+
+.my-row{
+    background-color: white;
+    
+}
+.review-one{
+    color: hsl(300, 43%, 22%);
+}
+.besttech-three{
+     color: hsl(300, 43%, 22%);
+}
+.repor-two{
+    color: hsl(300, 43%, 22%);
+
+}
+.review{
+    background-color:hsl(300, 24%, 96%); 
+    border-radius: 4px;
+    width: 60%;
+}
+.report{
+    background-color:hsl(300, 24%, 96%);
+    border-radius: 4px;
+    width: 67%;
+    margin-left: 50px;
+}
+
+.besttech{
+    background-color:hsl(300, 24%, 96%); 
+    border-radius: 4px;
+    width: 60%;
+    margin-left: 100px;
+}
+.colton{
+    background-color: hsl(300, 43%, 22%);
+    border-radius: 7px;
+}
+.anne{
+    background-color: hsl(300, 43%, 22%);
+    border-radius: 7px;
+}
+.irene{
+    background-color: hsl(300, 43%, 22%);
+    border-radius: 7px;
+}
+.colton-two{
+    border-radius: 50px;
+}
+
+.irene-three{
+    border-radius: 50px;
+}
+
+.anne-four{
+    border-radius: 50px;
+}
